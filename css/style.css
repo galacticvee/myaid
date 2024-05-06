@@ -826,7 +826,7 @@ section.info_section.layout_padding2 {
   color: #fefefe;
   align-items: center;
 }
-@media screen {
+@media screen (min-width:376px){
   flex-direction: column;
 }
 
