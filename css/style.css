@@ -828,9 +828,12 @@ section.info_section.layout_padding2 {
 }
 @media only screen and (max-width: 768px){
   section.info_section.layout_padding2 {
-  flex-direction: column;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
   }
 }
+
 
 
 .info_section h4 {
