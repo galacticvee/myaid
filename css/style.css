@@ -827,7 +827,9 @@ section.info_section.layout_padding2 {
   align-items: center;
 }
 @media screen (min-width:376px){
+  section.info_section.layout_padding2 {
   flex-direction: column;
+  }
 }
 
 
